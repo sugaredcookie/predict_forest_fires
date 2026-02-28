@@ -206,14 +206,3 @@ python application.py
 * Add classification-based fire risk category
 
 ---
-
-## 🧑‍💻 Author
-
-Built as part of an end-to-end Machine Learning pipeline project.
-
-```
-
----
-
-There. Now your repo looks like intention instead of accident.
-```
